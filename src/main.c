@@ -1,5 +1,8 @@
 /* Somador de Floats
+ * Desenvolvido por: Eduardo Parducci
+ * Data de criação: 01/03/2019
  *
+ * Descrição:
  * Este programa recebera uma serie de caracteres contendo floats em seu conteúd
  * Ao receber um caractere fim de linha ('\n'), deve imprimir na tela a soma dos
  * floats válidos encontrados na entrada.
